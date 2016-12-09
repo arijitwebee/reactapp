@@ -1,0 +1,17 @@
+{
+  "name": "react1",
+  "version": "1.0.0",
+  "description": "This my first react app. Gar fete jache korte",
+  "main": "index.js",
+  "scripts": {
+    "test": "run successfully"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "Arijit Chandra",
+  "license": "ISC",
+  "dependencies": {
+    "webpack": "^1.14.0"
+  }
+}
